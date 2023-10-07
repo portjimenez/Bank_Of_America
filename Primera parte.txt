@@ -1,0 +1,12 @@
+	Primer parte del proyecto:
+
+Formularios -> datos para crear la cuenta bancaria con los requerimientos solicitados. (entrega jueves 5) = Brayan, Manases
+
+Crear una "ticket" para las cuentas que se crearon de forma personal. (entrega viernes 6) = Fernando
+
+Desarrollo de area de administracion (autorizacion de cuentas) ->(entrega domingo 8) = Melanie
+
+Enviar correo electronico de autorizada la cuenta junto a sus credenciales temporales que luego tendra que cambiar. De igual forma si no es autorizada debe de enviar el correo indicando el motivo del porque fue rechazada. (entrega martes 10) = Luis
+
+login -> el usuario podra ingresar con sus credenciales o desbloqueo facial. (entrega jueves 12) = David
+
